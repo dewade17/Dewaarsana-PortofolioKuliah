@@ -1,0 +1,11 @@
+.jumbotron {
+  background: url('gambar/google.jpg');
+  background-size: cover;
+  display: flex;
+  background-attachment: fixed;
+}
+.iniBanner1 {
+  background-color: rgba(242, 255, 220, 0.534);
+  min-height: 40vh;
+  width: 150%;
+}
